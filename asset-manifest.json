@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/vkminiapp.github.io/static/css/main.685c58b4.chunk.css",
+    "main.js": "/vkminiapp.github.io/static/js/main.b189bed6.chunk.js",
+    "main.js.map": "/vkminiapp.github.io/static/js/main.b189bed6.chunk.js.map",
+    "runtime-main.js": "/vkminiapp.github.io/static/js/runtime-main.408ea1e3.js",
+    "runtime-main.js.map": "/vkminiapp.github.io/static/js/runtime-main.408ea1e3.js.map",
+    "static/css/2.a2ab3232.chunk.css": "/vkminiapp.github.io/static/css/2.a2ab3232.chunk.css",
+    "static/js/2.83450611.chunk.js": "/vkminiapp.github.io/static/js/2.83450611.chunk.js",
+    "static/js/2.83450611.chunk.js.map": "/vkminiapp.github.io/static/js/2.83450611.chunk.js.map",
+    "index.html": "/vkminiapp.github.io/index.html",
+    "static/css/2.a2ab3232.chunk.css.map": "/vkminiapp.github.io/static/css/2.a2ab3232.chunk.css.map",
+    "static/css/main.685c58b4.chunk.css.map": "/vkminiapp.github.io/static/css/main.685c58b4.chunk.css.map",
+    "static/js/2.83450611.chunk.js.LICENSE.txt": "/vkminiapp.github.io/static/js/2.83450611.chunk.js.LICENSE.txt",
+    "static/media/persik.ae9f0072.png": "/vkminiapp.github.io/static/media/persik.ae9f0072.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.408ea1e3.js",
+    "static/css/2.a2ab3232.chunk.css",
+    "static/js/2.83450611.chunk.js",
+    "static/css/main.685c58b4.chunk.css",
+    "static/js/main.b189bed6.chunk.js"
+  ]
+}
